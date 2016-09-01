@@ -20,6 +20,9 @@ seamlessly as your business grows.
 -> Also will use Cloudfront Content Delivery Network where you set up a Content Delivery Network based on your S3 Bucket. 
 This way Amazon pushes the files in your bucket where in this case it is Image. 
 ```
+#Architecture of PhotoGRID
+![vectorpaint 1](https://cloud.githubusercontent.com/assets/15076889/18156079/4104d998-6fc8-11e6-8c15-526a59f6cb6d.png)
+
 #Pre-requisites:
 * Latest version of Node.js 
 * Account on MongoLab.com
