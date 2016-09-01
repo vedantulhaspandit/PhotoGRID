@@ -7,7 +7,7 @@
 
 #Working of PhotoGRID 
 * This NodeJS App works on an Amazon Elastic Cloud Instance. 
-* When you upload an image, the image first is resized using  the GraphicsMagik image processing library and is then pushed using the Amazon S3 bucket from where it is then displayed on the gallery interface. 
+* When you upload an image, the image first is resized using  the GraphicsMagick image processing library and is then pushed using the Amazon S3 bucket from where it is then displayed on the gallery interface. 
 * Additionally entry for the image is also made in a MongoLab MongoDB. This is where we keep a track of the vote
 count for every image. 
 * The app uses two of the main service that Amazon offers:
