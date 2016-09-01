@@ -21,10 +21,10 @@ seamlessly as your business grows.
 This way Amazon pushes the files in your bucket where in this case it is Image. 
 ```
 #Pre-requisites:
-1.Latest version of Node.js 
-2.Account on MongoLab.com
-3.Account at Amazon Web Services
-4.Graphics Magick Library
+* Latest version of Node.js 
+* Account on MongoLab.com
+* Account at Amazon Web Services
+* Graphics Magick Library
 
 #Installation
 * To run the app, first install the dependencies (in package.json) with NPM.
